@@ -8,10 +8,3 @@ hello xiaoyean
 hello xiaoyean
 hello xiaoyean
 hello xiaoyean
-<<<<<<< HEAD
-hello xiaoyean mastre
-
-=======
-
-zhangxiangxue aini nb666
->>>>>>> nb666
